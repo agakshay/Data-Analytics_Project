@@ -1,5 +1,9 @@
 # Data-Analytics_Project
-## Summary
+## Summary+
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
 Markup : - 1. In this project car data in the form of CSV file is inspected.
          - 2. The tabular data is read using pandas.
          - 3. The data is described to understand the data tendency and shape of the dataset distribution.
