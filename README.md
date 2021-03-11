@@ -1,5 +1,5 @@
 # Data-Analytics_Project
-## Summary+
+## Summary
 
 1. In this project car data in the form of CSV file is inspected.
 2. The tabular data is read using pandas.
@@ -10,6 +10,6 @@
 7. Correlation between the variables are described in the form of table and heatmap using seaborn.
 
 > Libraries used
-       >> pandas
-       >> seaborn
-       >> matplotlib
+>> pandas
+>> seaborn
+>> matplotlib
