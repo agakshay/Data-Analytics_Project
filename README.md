@@ -9,7 +9,7 @@
 6. Histogram is plotted between the no of cars and the Brand.
 7. Correlation between the variables are described in the form of table and heatmap using seaborn.
 
-> Libraries used
+> Libraries used:
 >> pandas
 >>> seaborn
 >>>> matplotlib
